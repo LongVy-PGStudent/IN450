@@ -1,3 +1,5 @@
+
+
 /*
 Unit 3 
 Long Vy
@@ -29,6 +31,7 @@ GRANT SELECT ON IN450c to IN450c_security;
 ALTER ROLE IN450a_security with LOGIN PASSWORD 'password1';
 ALTER ROLE IN450b_security with LOGIN PASSWORD 'password2';
 ALTER ROLE IN450c_security with LOGIN PASSWORD 'password3';
+
 
 
 
