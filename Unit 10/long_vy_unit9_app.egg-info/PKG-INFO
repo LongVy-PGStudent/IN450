@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: long_vy_unit9_app
+Version: 1.0.0
+Summary: Security-enhanced Tkinter/PostgreSQL login application with bcrypt hashing, parameterized queries, input validation, and account lockout (Unit 9 – IN450).
+Author: Long Vy
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: psycopg2-binary>=2.9
+Requires-Dist: bcrypt>=4.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

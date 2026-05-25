@@ -1,0 +1,2 @@
+[console_scripts]
+long-vy-unit9 = long_vy_unit9_app.main:main
